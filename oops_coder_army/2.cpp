@@ -238,6 +238,7 @@ prateek mishra{
         set<string> ss;
         set<char> sc;
         set<int> st, stt;
+        set<int> ts;
 /*      =====================================================================================*/
         //func();
   }
